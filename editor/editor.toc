@@ -1,0 +1,19 @@
+\contentsline {part}{I\hspace {1em}Hamiltonian Mechanics}{1}{}%
+\contentsline {title}{Hamiltonian Mechanics unter besonderer Ber\"ucksichtigung der h\"ohereren Lehranstalten}{3}{}%
+\authcount {6}
+\contentsline {author}{Ivar Ekeland, Roger Temam, Jeffrey Dean, David Grove, Craig Chambers, Kim B. Bruce, and Elisa Bertino}{3}{}%
+\contentsline {section}{\numberline {1}Fixed-Period Problems: The Sublinear Case}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Autonomous Systems}{3}{}%
+\contentsline {subsubsection}{The General Case: Nontriviality.}{3}{}%
+\contentsline {paragraph}{Notes and Comments.}{6}{}%
+\contentsline {paragraph}{Notes and Comments.}{8}{}%
+\contentsline {part}{II\hspace {1em}Theoretical Contributions}{9}{}%
+\contentsline {title}{Hamiltonian Mechanics2}{11}{}%
+\authcount {2}
+\contentsline {author}{Ivar Ekeland\unskip {} \and Roger Temam\unskip {}}{11}{}%
+\contentsline {section}{\numberline {1}Fixed-Period Problems: The Sublinear Case}{11}{}%
+\contentsline {subsection}{\numberline {1.1}Autonomous Systems}{11}{}%
+\contentsline {subsubsection}{The General Case: Nontriviality.}{11}{}%
+\contentsline {paragraph}{Notes and Comments.}{14}{}%
+\contentsline {paragraph}{Notes and Comments.}{16}{}%
+\contentsline {chapter}{Author Index}{17}
